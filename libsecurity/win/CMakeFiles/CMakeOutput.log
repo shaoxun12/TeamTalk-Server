@@ -1,0 +1,381 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+���� .NET Framework �� Microsoft (R) ��������汾 15.6.82.30579
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2018/8/28 10:51:01��
+�ڵ� 1 �ϵ���Ŀ��E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdC.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\3.12.1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\3.12.1\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.13
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/3.12.1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+���� .NET Framework �� Microsoft (R) ��������汾 15.6.82.30579
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2018/8/28 10:51:02��
+�ڵ� 1 �ϵ���Ŀ��E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\3.12.1\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdCXX.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdCXX.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\3.12.1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdCXX.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\3.12.1\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.00
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/3.12.1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_aba8d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.6.82.30579
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/8/28 10:51:04。
+节点 1 上的项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_aba8d.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_aba8d.dir\Debug\”。
+  正在创建目录“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_aba8d.dir\Debug\cmTC_aba8d.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_aba8d.dir\Debug\cmTC_aba8d.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_aba8d.dir\Debug\\" /Fd"cmTC_aba8d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\testCCompiler.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.13.26129 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_aba8d.dir\Debug\\" /Fd"cmTC_aba8d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_aba8d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_aba8d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_aba8d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_aba8d.dir\Debug\testCCompiler.obj
+  cmTC_aba8d.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_aba8d.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_aba8d.dir\Debug\cmTC_aba8d.tlog\unsuccessfulbuild”。
+  正在对“cmTC_aba8d.dir\Debug\cmTC_aba8d.tlog\cmTC_aba8d.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_aba8d.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.27
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_299eb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.6.82.30579
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/8/28 10:51:05。
+节点 1 上的项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_299eb.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_299eb.dir\Debug\”。
+  正在创建目录“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_299eb.dir\Debug\cmTC_299eb.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_299eb.dir\Debug\cmTC_299eb.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_299eb.dir\Debug\\" /Fd"cmTC_299eb.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "D:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.13.26129 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_299eb.dir\Debug\\" /Fd"cmTC_299eb.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "D:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_299eb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_299eb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_299eb.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_299eb.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_299eb.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_299eb.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_299eb.dir\Debug\cmTC_299eb.tlog\unsuccessfulbuild”。
+  正在对“cmTC_299eb.dir\Debug\cmTC_299eb.tlog\cmTC_299eb.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_299eb.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.19
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e9a8d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.6.82.30579
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/8/28 10:51:07。
+节点 1 上的项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_e9a8d.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_e9a8d.dir\Debug\”。
+  正在创建目录“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_e9a8d.dir\Debug\cmTC_e9a8d.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_e9a8d.dir\Debug\cmTC_e9a8d.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e9a8d.dir\Debug\\" /Fd"cmTC_e9a8d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\feature_tests.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.13.26129 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e9a8d.dir\Debug\\" /Fd"cmTC_e9a8d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\feature_tests.c"
+  feature_tests.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_e9a8d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_e9a8d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_e9a8d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e9a8d.dir\Debug\feature_tests.obj
+  cmTC_e9a8d.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_e9a8d.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_e9a8d.dir\Debug\cmTC_e9a8d.tlog\unsuccessfulbuild”。
+  正在对“cmTC_e9a8d.dir\Debug\cmTC_e9a8d.tlog\cmTC_e9a8d.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_e9a8d.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.02
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a532a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.6.82.30579
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/8/28 10:51:08。
+节点 1 上的项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_a532a.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_a532a.dir\Debug\”。
+  正在创建目录“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_a532a.dir\Debug\cmTC_a532a.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_a532a.dir\Debug\cmTC_a532a.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a532a.dir\Debug\\" /Fd"cmTC_a532a.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.13.26129 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a532a.dir\Debug\\" /Fd"cmTC_a532a.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_a532a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_a532a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_a532a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a532a.dir\Debug\testCXXCompiler.obj
+  cmTC_a532a.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_a532a.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_a532a.dir\Debug\cmTC_a532a.tlog\unsuccessfulbuild”。
+  正在对“cmTC_a532a.dir\Debug\cmTC_a532a.tlog\cmTC_a532a.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_a532a.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.02
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_86b31.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.6.82.30579
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/8/28 10:51:09。
+节点 1 上的项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_86b31.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_86b31.dir\Debug\”。
+  正在创建目录“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_86b31.dir\Debug\cmTC_86b31.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_86b31.dir\Debug\cmTC_86b31.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_86b31.dir\Debug\\" /Fd"cmTC_86b31.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "D:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.13.26129 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_86b31.dir\Debug\\" /Fd"cmTC_86b31.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "D:\Program Files\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_86b31.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_86b31.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_86b31.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_86b31.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_86b31.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_86b31.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_86b31.dir\Debug\cmTC_86b31.tlog\unsuccessfulbuild”。
+  正在对“cmTC_86b31.dir\Debug\cmTC_86b31.tlog\cmTC_86b31.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_86b31.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.14
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_65e2f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.6.82.30579
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/8/28 10:51:11。
+节点 1 上的项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_65e2f.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_65e2f.dir\Debug\”。
+  正在创建目录“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_65e2f.dir\Debug\cmTC_65e2f.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_65e2f.dir\Debug\cmTC_65e2f.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_65e2f.dir\Debug\\" /Fd"cmTC_65e2f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\feature_tests.cxx"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.13.26129 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_65e2f.dir\Debug\\" /Fd"cmTC_65e2f.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\feature_tests.cxx"
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_65e2f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_65e2f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/CMakeTmp/Debug/cmTC_65e2f.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_65e2f.dir\Debug\feature_tests.obj
+  cmTC_65e2f.vcxproj -> E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\Debug\cmTC_65e2f.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_65e2f.dir\Debug\cmTC_65e2f.tlog\unsuccessfulbuild”。
+  正在对“cmTC_65e2f.dir\Debug\cmTC_65e2f.tlog\cmTC_65e2f.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\codinglife\TeamTalk-master\TeamTalk-master\server\src\libsecurity\win\CMakeFiles\CMakeTmp\cmTC_65e2f.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.10
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

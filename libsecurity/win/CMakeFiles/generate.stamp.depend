@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCXXInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeGenericSystem.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeInitializeConfigs.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeRCInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Compiler/MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/Windows.cmake
+D:/Program Files/CMake/share/cmake-3.12/Modules/Platform/WindowsPaths.cmake
+E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/src/CMakeLists.txt
+E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/3.12.1/CMakeCCompiler.cmake
+E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/3.12.1/CMakeCXXCompiler.cmake
+E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/3.12.1/CMakeRCCompiler.cmake
+E:/codinglife/TeamTalk-master/TeamTalk-master/server/src/libsecurity/win/CMakeFiles/3.12.1/CMakeSystem.cmake
